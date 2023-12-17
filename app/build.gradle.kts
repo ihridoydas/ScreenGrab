@@ -22,8 +22,7 @@
 * SOFTWARE.
 *
 */
-import com.vanniktech.maven.publish.SonatypeHost
-import java.util.Calendar.YEAR
+
 
 @Suppress("DSL_SCOPE_VIOLATION") // TODO: Remove once KTIJ-19369 is fixed
 plugins {
@@ -31,8 +30,6 @@ plugins {
     alias(libs.plugins.kotlinAndroid)
     alias(libs.plugins.spotlessVersion) apply false
     alias(libs.plugins.dokkaVersion) apply false
-    id("com.vanniktech.maven.publish") version "0.25.3"
-    id("maven-publish")
 }
 
 android {
