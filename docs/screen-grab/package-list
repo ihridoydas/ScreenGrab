@@ -1,0 +1,14 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:jp.ihridoydas.screengrab.screenGrabber.controller////PointingToDeclaration/screen-grab/jp.ihridoydas.screengrab.screenGrabber.controller/index.html
+$dokka.location:jp.ihridoydas.screengrab.screenGrabber.controller//ScreenGrabber/#jp.ihridoydas.screengrab.screenGrabber.controller.GrabController#androidx.compose.ui.Modifier#kotlin.Function2[androidx.compose.ui.graphics.ImageBitmap?,kotlin.Throwable?,kotlin.Unit]#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/screen-grab/jp.ihridoydas.screengrab.screenGrabber.controller/-screen-grabber.html
+$dokka.location:jp.ihridoydas.screengrab.screenGrabber.controller//rememberScreenGrabController/#/PointingToDeclaration/screen-grab/jp.ihridoydas.screengrab.screenGrabber.controller/remember-screen-grab-controller.html
+$dokka.location:jp.ihridoydas.screengrab.screenGrabber.controller//screenGrabber/androidx.compose.ui.Modifier#jp.ihridoydas.screengrab.screenGrabber.controller.GrabController/PointingToDeclaration/screen-grab/jp.ihridoydas.screengrab.screenGrabber.controller/screen-grabber.html
+$dokka.location:jp.ihridoydas.screengrab.screenGrabber.controller/GrabController///PointingToDeclaration/screen-grab/jp.ihridoydas.screengrab.screenGrabber.controller/-grab-controller/index.html
+$dokka.location:jp.ihridoydas.screengrab.screenGrabber.controller/GrabController/capture/#android.graphics.Bitmap.Config/PointingToDeclaration/screen-grab/jp.ihridoydas.screengrab.screenGrabber.controller/-grab-controller/capture.html
+$dokka.location:jp.ihridoydas.screengrab.screenGrabber.controller/GrabController/screenGrabAsync/#android.graphics.Bitmap.Config/PointingToDeclaration/screen-grab/jp.ihridoydas.screengrab.screenGrabber.controller/-grab-controller/screen-grab-async.html
+$dokka.location:jp.ihridoydas.screengrab.screenGrabber.storeInLocal////PointingToDeclaration/screen-grab/jp.ihridoydas.screengrab.screenGrabber.storeInLocal/index.html
+$dokka.location:jp.ihridoydas.screengrab.screenGrabber.storeInLocal//saveBitmapToGallery/#android.content.Context#android.graphics.Bitmap/PointingToDeclaration/screen-grab/jp.ihridoydas.screengrab.screenGrabber.storeInLocal/save-bitmap-to-gallery.html
+jp.ihridoydas.screengrab.screenGrabber.controller
+jp.ihridoydas.screengrab.screenGrabber.storeInLocal
+

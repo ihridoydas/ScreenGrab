@@ -1,0 +1,21 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:jp.ihridoydas.screengrab.ui.theme////PointingToDeclaration/app/jp.ihridoydas.screengrab.ui.theme/index.html
+$dokka.location:jp.ihridoydas.screengrab.ui.theme//Pink40/#/PointingToDeclaration/app/jp.ihridoydas.screengrab.ui.theme/-pink40.html
+$dokka.location:jp.ihridoydas.screengrab.ui.theme//Pink80/#/PointingToDeclaration/app/jp.ihridoydas.screengrab.ui.theme/-pink80.html
+$dokka.location:jp.ihridoydas.screengrab.ui.theme//Purple40/#/PointingToDeclaration/app/jp.ihridoydas.screengrab.ui.theme/-purple40.html
+$dokka.location:jp.ihridoydas.screengrab.ui.theme//Purple80/#/PointingToDeclaration/app/jp.ihridoydas.screengrab.ui.theme/-purple80.html
+$dokka.location:jp.ihridoydas.screengrab.ui.theme//PurpleGrey40/#/PointingToDeclaration/app/jp.ihridoydas.screengrab.ui.theme/-purple-grey40.html
+$dokka.location:jp.ihridoydas.screengrab.ui.theme//PurpleGrey80/#/PointingToDeclaration/app/jp.ihridoydas.screengrab.ui.theme/-purple-grey80.html
+$dokka.location:jp.ihridoydas.screengrab.ui.theme//ScreenGrabTheme/#kotlin.Boolean#kotlin.Boolean#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/app/jp.ihridoydas.screengrab.ui.theme/-screen-grab-theme.html
+$dokka.location:jp.ihridoydas.screengrab.ui.theme//Typography/#/PointingToDeclaration/app/jp.ihridoydas.screengrab.ui.theme/-typography.html
+$dokka.location:jp.ihridoydas.screengrab////PointingToDeclaration/app/jp.ihridoydas.screengrab/index.html
+$dokka.location:jp.ihridoydas.screengrab//AirTicket/#androidx.compose.ui.Modifier/PointingToDeclaration/app/jp.ihridoydas.screengrab/-air-ticket.html
+$dokka.location:jp.ihridoydas.screengrab//AirTicketScreen/#android.content.Context/PointingToDeclaration/app/jp.ihridoydas.screengrab/-air-ticket-screen.html
+$dokka.location:jp.ihridoydas.screengrab//ItemForText/#kotlin.String#androidx.compose.ui.graphics.Color/PointingToDeclaration/app/jp.ihridoydas.screengrab/-item-for-text.html
+$dokka.location:jp.ihridoydas.screengrab//ScreenGrabber/#/PointingToDeclaration/app/jp.ihridoydas.screengrab/-screen-grabber.html
+$dokka.location:jp.ihridoydas.screengrab/MainActivity///PointingToDeclaration/app/jp.ihridoydas.screengrab/-main-activity/index.html
+$dokka.location:jp.ihridoydas.screengrab/MainActivity/MainActivity/#/PointingToDeclaration/app/jp.ihridoydas.screengrab/-main-activity/-main-activity.html
+jp.ihridoydas.screengrab
+jp.ihridoydas.screengrab.ui.theme
+
