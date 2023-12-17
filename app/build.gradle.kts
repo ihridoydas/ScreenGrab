@@ -90,35 +90,6 @@ android {
             licenseHeaderFile (rootProject.file("spotless/copyright.kt"))
         }
     }
-    mavenPublishing {
-        coordinates("jp.ihridoydas", "ScreenGrab", "1.0.0-SNAPSHOT")
-
-        pom {
-            name.set("ScreenGrab")
-            description.set("Jetpack Compose utility library for converting Composable content into Bitmap image and save the image in local Storage.")
-            inceptionYear.set("2023")
-            url.set("https://github.com/ihridoydas/ScreenGrab/")
-            licenses {
-                license {
-                    name.set("MIT License")
-                    url.set("https://github.com/ihridoydas/ScreenGrab/blob/master/LICENSE")
-                    distribution.set("https://github.com/ihridoydas/ScreenGrab/blob/master/LICENSE")
-                }
-            }
-            developers {
-                developer {
-                    id.set("ihridoydas")
-                    name.set("Hridoy Chandra Das")
-                    url.set("https://github.com/ihridoydas/")
-                }
-            }
-            scm {
-                url.set("https://github.com/ihridoydas/ScreenGrab/")
-                connection.set("scm:git:git://github.com/ihridoydas/ScreenGrab.git")
-                developerConnection.set("scm:git:ssh://git@github.com/ihridoydas/ScreenGrab.git")
-            }
-        }
-    }
 }
 
 dependencies {
