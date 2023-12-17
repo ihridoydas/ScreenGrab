@@ -30,7 +30,7 @@ plugins {
     alias(libs.plugins.kotlinAndroid)
     alias(libs.plugins.spotlessVersion) apply false
     alias(libs.plugins.dokkaVersion) apply false
-    id("com.vanniktech.maven.publish")
+    id("com.vanniktech.maven.publish") version "0.25.3"
 }
 
 android {

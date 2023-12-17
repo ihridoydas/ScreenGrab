@@ -4,7 +4,7 @@ import org.jetbrains.dokka.gradle.DokkaTask
 buildscript {
     dependencies {
         classpath ("org.jetbrains.dokka:android-documentation-plugin:${libs.versions.dokkaVersion.get()}")
-        classpath ("com.vanniktech:gradle-maven-publish-plugin:${libs.versions.mavenPublishVersion.get()}")
+       // classpath ("com.vanniktech:gradle-maven-publish-plugin:${libs.versions.mavenPublishVersion.get()}")
     }
 }
 
