@@ -1,0 +1,28 @@
+# Maven
+SONATYPE_HOST=DEFAULT
+RELEASE_SIGNING_ENABLED=true
+
+POM_ARTIFACT_ID=screenGrab
+VERSION_NAME=1.0.0-SNAPSHOT
+POM_NAME=screenGrab
+POM_DESCRIPTION=Jetpack Compose utility library for converting Composable content into Bitmap image and save the image in local Storage.
+POM_PACKAGING=aar
+POM_INCEPTION_YEAR=2023
+
+GROUP=jp.ihridoydas
+VERSION_NAME=1.0.0
+VERSION_CODE=1
+
+POM_URL=https://github.com/ihridoydas/ScreenGrab/
+
+POM_LICENSE_NAME=MIT License
+POM_LICENSE_URL=https://github.com/ihridoydas/ScreenGrab/blob/master/LICENSE
+POM_LICENSE_DIST=repo
+
+POM_SCM_URL=https://github.com/ihridoydas/ScreenGrab/
+POM_SCM_CONNECTION=scm:git:git://github.com/ihridoydas/ScreenGrab.git
+POM_SCM_DEV_CONNECTION=scm:git:ssh://git@github.com/ihridoydas/ScreenGrab.git
+
+POM_DEVELOPER_ID=ihridoydas
+POM_DEVELOPER_NAME=Hridoy Chandra Das
+POM_DEVELOPER_URL=https://github.com/ihridoydas/
